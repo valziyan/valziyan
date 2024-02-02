@@ -1,4 +1,4 @@
-# 👋 Greetings! I'm [Your Full Name]
+# 👋 Greetings! I'm Ryan Balisi
 
 ## About Me
 
