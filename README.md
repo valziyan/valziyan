@@ -44,5 +44,3 @@ I thrive on the challenge of end-to-end management of new website development pr
 🚀 **Ready to embark on a digital journey?** Let's connect and discuss how I can elevate your online presence!
 
 ---
-
-Feel free to personalize it further based on your preferences or any additional information you'd like to include!
