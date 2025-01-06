@@ -1,46 +1,42 @@
-# 👋 Greetings! I'm Ryan Balisi
+# 👨‍💻 Ryan Balisi  
+### Senior Full-Stack Developer | PHP, Laravel, React, Vanilla JS | Scalable Web Apps, WordPress, E-Commerce Expert
 
-## About Me
 
-🚀 I'm a highly experienced Full-Stack Web Developer with a decade of expertise in crafting dynamic and high-performing websites. My passion is using cutting-edge technologies to bring digital visions to life.
-
-## Technical Proficiency
-
-- 💻 **Languages:** PHP, Python, JavaScript
-- 🌐 **Frameworks:** Laravel, React
-- 📊 **Databases:** MySQL, Ms SQL
-- 🎨 **Frontend:** HTML5, CSS3, Bootstrap, jQuery
-- 🛠️ **CMS:** WordPress (Genesis, Divi, Child, AVADA)
-- 🛒 **E-commerce:** WooCommerce
-- 🔄 **Integration:** API, Social Media (Facebook, Google), Google Maps
-
-## WordPress Mastery
-
-- 🎨 **Theme Customization:** Tailored themes to reflect brand identity.
-- 📦 **Plugin Integration:** Seamless integration for enhanced functionality.
-- 🛒 **E-commerce Expertise:** Specialized in WooCommerce and E-commerce development.
-- 🚀 **Optimization:** Migration, speed optimization, and security enhancements.
-
-## Web Applications Expertise
-
-- 🚀 **Full Stack:** Proficient in PHP, Python, and JavaScript.
-- ⚙️ **Database Design:** MySQL expertise for robust data management.
-- 📲 **Responsive Design:** Crafting web and mobile-friendly applications.
-- 🔗 **API Integration:** Seamless integration for enhanced functionality.
-- 🔒 **Security:** PFSense Firewall setup for a secure online environment.
-
-## Versatile Skills
-
-- ☁️ **Cloud Services:** AWS expertise for scalable solutions.
-- 🚦 **Server Management:** CPanel, Linux, Nginx, Apache mastery.
-- 🌐 **Networking:** TCP IP Protocol for seamless communication.
-- 🔄 **Version Control:** Git for collaborative development.
-- 🖥️ **Tech Support:** Proficient in troubleshooting and bug fixing.
-
-## Why Choose Me
-
-I thrive on the challenge of end-to-end management of new website development projects. Let's collaborate to build a website that not only meets your requirements but exceeds expectations.
-
-🚀 **Ready to embark on a digital journey?** Let's connect and discuss how I can elevate your online presence!
+Hi there! I'm a passionate and experienced Full-Stack Web Developer with 10+ years of expertise in crafting dynamic, high-performing websites and applications. I specialize in WordPress development, Laravel, and modern JavaScript frameworks like React. Let's build something amazing together!  
 
 ---
+
+## 🛠️ Skills & Expertise  
+
+- **Languages**: PHP, JavaScript, Python  
+- **Frameworks**: Laravel, React, Bootstrap  
+- **CMS**: WordPress (Themes, Plugins, WooCommerce)  
+- **E-commerce**: Shopify, WooCommerce  
+- **Databases**: MySQL, MS SQL  
+- **Tools & Platforms**: Git, AWS, WP Engine  
+- **Frontend**: HTML5, CSS3, Tailwind, jQuery  
+
+---
+
+## 🚀 Key Projects  
+
+### [Cluey Learning](https://clueylearning.com.au)  
+Enhanced site performance, implemented Salesforce Marketing Cloud integration, and optimized user experience.  
+
+### [Frankie Media](https://frankiemedia.com.au)  
+Developed custom WordPress solutions, focusing on SEO and speed optimization.  
+
+### [James McNamara](https://jamesmcnamara.com.au)  
+Full-stack development of a modern and responsive website, ensuring seamless functionality.  
+
+---
+
+## 📫 Connect with Me  
+
+- **LinkedIn**: [Ryan Balisi](https://www.linkedin.com/in/ryanbalisi/)  
+- **GitHub**: [valziyan](https://github.com/valziyan)  
+- **Upwork**: [Ryan Balisi](https://www.upwork.com/freelancers/ryanbalisi)  
+
+---
+
+Let's create and innovate together! Feel free to explore my repositories and reach out for collaboration opportunities.  
