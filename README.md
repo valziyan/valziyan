@@ -21,7 +21,7 @@ Hi there! I'm a passionate and experienced Full-Stack Web Developer with 10+ yea
 ## 🚀 Key Projects  
 
 ### [Cluey Learning](https://clueylearning.com.au)  
-Enhanced site performance, implemented Salesforce Marketing Cloud integration, and optimized user experience.  
+Full-Stack Development, Enhanced site performance, implemented Salesforce Marketing Cloud integration, and optimized user experience.  
 
 ### [Frankie Media](https://frankiemedia.com.au)  
 Developed custom WordPress solutions, focusing on SEO and speed optimization.  
